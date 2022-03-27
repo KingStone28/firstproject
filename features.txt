@@ -2,3 +2,5 @@ this is chat application for web developer
 emoji
 keyboard
 colors
+adding dark mode
+for user experience
